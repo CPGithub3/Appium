@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T16:22:34 IST" name="Default suite" finished-at="2022-12-02T16:23:49 IST" duration-ms="75147">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T16:22:34 IST" name="Default test" finished-at="2022-12-02T16:23:49 IST" duration-ms="75147">
+      <class name="webApp.Nativeapp">
+        <test-method is-config="true" signature="BT()[pri:0, instance:webApp.Nativeapp@6a370f4]" started-at="2022-12-02T16:22:34 IST" name="BT" finished-at="2022-12-02T16:23:20 IST" duration-ms="45843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="test()[pri:0, instance:webApp.Nativeapp@6a370f4]" started-at="2022-12-02T16:23:20 IST" name="test" finished-at="2022-12-02T16:23:49 IST" duration-ms="29105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- webApp.Nativeapp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
